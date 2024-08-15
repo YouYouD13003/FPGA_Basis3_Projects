@@ -23,5 +23,7 @@ Tri-color VGA Display: Extended the VGA controller to display a tricolor image, 
 Tools and Technologies:
 
 VHDL: Used for coding and designing the digital circuits.
+
 Vivado: Xilinx’s development environment for synthesizing and implementing VHDL code on the Basys3 board.
+
 Modelsim: Utilized for simulating and verifying the behavior of VHDL designs before deployment.
